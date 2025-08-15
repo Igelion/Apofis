@@ -1,5 +1,3 @@
-.code
-main proc
-	ret
-main endp
-END
+;
+;some code
+;
